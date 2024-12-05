@@ -25,8 +25,8 @@ This project demonstrates how to integrate **Large Language Models (LLMs)** in r
 
 
 
-## 🛠️Instalasi
-Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggunakan ctrl+shift+p select interpreter, pilih yang anaconda
+## 🛠️Installation
+Make sure Anaconda is installed and has been replaced in another VScode/IDE using ctrl+shift+p select interpreter, select anaconda.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/galuhRastika/Integrate_LLMs_with_Applications.git
@@ -44,7 +44,7 @@ Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggu
    python ./demo_wml_api.py
    streamlit run demo_wml_api_with_streamlit.py
    
-## 📝Contoh Hasil
+## 📝Results
    ```bash
    python demo_wml_api.py
 ---------------------------------------------------------------------------
